@@ -1,0 +1,1 @@
+Binary Image classification tasks on the ISIC 2016 and SARS-COV-2 datasets one imbalanced and one balanced respectively to test the extent of two base classifiers against the basic CNN Models and ViT.
